@@ -1,1 +1,7 @@
-URLs="https://raw.hellogithub.com/hosts"
+# Switch Hosts Configuration File (shell script)
+
+# Switchhosts will update hosts from $URLs
+URLs="
+https://raw.hellogithub.com/hosts
+
+"
